@@ -29,5 +29,11 @@ Nobody was collaborated with for this assignment.
 
 References
 ========================
-https://docs.python.org/2/library/mimetypes.html
-https://docs.python.org/2/library/os.path.html
+URL: https://docs.python.org/2/library/mimetypes.html  
+Title: "18.7. mimetypes — Map filenames to MIME types"  
+Date visited: January 20, 2017
+
+
+URL: https://docs.python.org/2/library/os.path.html  
+Title: "10.1. os.path — Common pathname manipulations"  
+Date visited: January 20, 2017
